@@ -1,0 +1,119 @@
+[
+{
+"Name":"The Comedy Store",
+"Address":"8433 Sunset Blvd",
+"City":"Los Angeles",
+"State":"CA 90069",
+"Country":"USA",
+"Latitude":"34.095000",
+"Longitude":"-118.373817"
+},
+{
+"Name":"New York Comedy Club",
+"Address":"241E 24th St",
+"City":"New York",
+"State":"NY 10010",
+"Country":"USA",
+"Latitude":"40.738778",
+"Longitude":"-73.980922"
+},
+{
+"Name":"NICK'S COMEDY STOP",
+"Address":"100 Warrenton Street",
+"City":"Boston",
+"State":"MA 02116",
+"Country":"USA",
+"Latitude":"42.350792",
+"Longitude":"-71.066079"
+},
+{
+"Name":"Hollywood Improv",
+"Address":"8162 Melrose Avenue",
+"City":"Hollywood",
+"State":"CA 90046",
+"Country":"USA",
+"Latitude":"34.083701",
+"Longitude":"-118.367392"
+},
+{
+"Name":"Comedy Cellar",
+"Address":"117 MacDougal St",
+"City":"New York",
+"State":"NY",
+"Country":"USA",
+"Latitude":"40.730128",
+"Longitude":"-74.000418"
+},
+{
+"Name":"Laugh Factory",
+"Address":"8001 Sunset Blvd",
+"City":"Hollywood",
+"State":"CA 90046",
+"Country":"USA",
+"Latitude":"34.098055",
+"Longitude":"-118.364425"
+},
+{
+"Name":"Rooster T Feathers Comedy club",
+"Address":"157 W El Camino",
+"City":"Sunnyvale",
+"State":"CA 94087",
+"Country":"USA",
+"Latitude":"37.368490",
+"Longitude":"-122.033694"
+},
+{
+"Name":"Miami Improv",
+"Address":"3390 Mary St",
+"City":"Miami",
+"State":"FL 33133",
+"Country":"USA",
+"Latitude":"25.728479",
+"Longitude":"-80.239464"
+},
+{
+"Name":"Comic Strip Live",
+"Address":"1568 2nd Ave",
+"City":"New York",
+"State":"NY 10028",
+"Country":"USA",
+"Latitude":"40.774920",
+"Longitude":"-73.953855"
+},
+{
+"Name":"San Jose Improv",
+"Address":"62 S 2nd St",
+"City":"San Jose",
+"State":"CA 95113",
+"Country":"USA",
+"Latitude":"37.335477",
+"Longitude":"-121.888587"
+},
+{
+"Name":"Boston Improv",
+"Address":"40 Prospect St",
+"City":"Cambrige",
+"State":"MA 02139",
+"Country":"USA",
+"Latitude":"42.366305",
+"Longitude":"-71.103344"
+},
+{
+"Name":"Madison Square Garden",
+"Address":"4 Pennsylvania Plaza",
+"City":"New York",
+"State":"NY 10001",
+"Country":"USA",
+"Latitude":"40.750567",
+"Longitude":"-73.993539"
+},
+{
+"Name":"Laugh Factory",
+"Address":"407 N Virginia St",
+"City":"Reno",
+"State":"NV 89501",
+"Country":"USA",
+"Latitude":"39.530609",
+"Longitude":"-119.815312"
+}
+]
