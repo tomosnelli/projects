@@ -22,11 +22,11 @@ while True:
 		print("Work dumb cunt")
 	else:
 		with open(hosts_temp, 'r+') as file:
-			content = file.readlines()
-			file.seek(0)
+			content = file.readlines()#readlinesでカーソル文末に移動してる
+			file.seek(0)#カーソル戻す
 			for line in content:
 				if not any(website in line for website in website_list):
-					file.write(line)
+					file.write(line)#website_listがある文は書き込みしない
 			file.truncate()
 		print("Fun hours...")
 	time.sleep(5)
