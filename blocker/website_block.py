@@ -1,9 +1,9 @@
 import time
 from datetime import datetime as dt
 
-hosts_temp = "hosts"
-hosts_path = "/etc/hosts"
-redirect = "127.0.0.1"
+hosts_temp = "hosts" #テスト用のホスト
+hosts_path = "/etc/hosts" #実際のホストパス
+redirect = "127.0.0.1" #localhost
 website_list = ["https://twitter.com", "twitter.com", "www.po-kaki-to.com", "po-kaki-to.com", "https://www.youtube.com", "youtube.com"]
 year = dt.now().year
 month = dt.now().month
@@ -30,3 +30,4 @@ while True:
 			file.truncate()
 		print("Fun hours...")
 	time.sleep(5)
+#書き込みはcronにさせる
