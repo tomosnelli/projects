@@ -19,7 +19,7 @@ while True:
 					pass
 				else:
 					file.write(redirect + " " + website + "\n")
-		print("Work dumb cunt")
+		print("Work time!")
 	else:
 		with open(hosts_temp, 'r+') as file:
 			content = file.readlines()#readlinesでカーソル文末に移動してる
