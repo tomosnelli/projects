@@ -1,7 +1,7 @@
 import cv2, time
 
 first_frame = None
-
+"""merge that"""
 video = cv2.VideoCapture(0)
 
 while True:
